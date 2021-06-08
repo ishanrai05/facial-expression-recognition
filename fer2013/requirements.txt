@@ -2,7 +2,7 @@ torch==1.2.0
 torchvision==0.4.0
 numpy==1.16.5
 matplotlib==3.0.3
-Pillow==4.3.0
+Pillow==8.2.0
 pandas
 cv2
 tqdm
